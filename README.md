@@ -28,6 +28,9 @@ We also continued to work on logic problems as well as Human Resource Machine. A
 ### Conclusion
 I feel more confident with CSS but there is still a lot of work ahead.
 
-My main issues contin
+My main issues are:
+* Knowing the various commands
+* Understanding layout and boxes
+* Changing the precise code I intend
 
 
