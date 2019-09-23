@@ -21,4 +21,13 @@ For this, we were given a skeleton and told to manipulate some of the features.
 
 4.  Finally were looked at dev controls to change the style of an active webpage in real time.
 
+### Other Activities
+We also continued to work on logic problems as well as Human Resource Machine. As well as working on activities to improve our understanding of the box model
+
+
+### Conclusion
+I feel more confident with CSS but there is still a lot of work ahead.
+
+My main issues contin
+
 
