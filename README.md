@@ -24,6 +24,11 @@ For this, we were given a skeleton and told to manipulate some of the features.
 ### Other Activities
 We also continued to work on logic problems as well as Human Resource Machine. As well as working on activities to improve our understanding of the box model
 
+### Java Script
+
+We also got our introduction to JS.  Some of the main points were to only use let and const and never var.
+
+We also did some initial exercises to see what the code looks like.
 
 ### Conclusion
 I feel more confident with CSS but there is still a lot of work ahead.
